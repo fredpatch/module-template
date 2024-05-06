@@ -1,0 +1,67 @@
+.application-body {
+    /* display: flex; */
+    margin: 0 auto;
+    padding: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.name-applicant {
+    display: flex;
+}
+
+.department-applicant {
+    padding-top: 5px;
+}
+
+.company {
+    padding-top: 15px;
+}
+
+.date-application {
+    padding-top: 15px;
+}
+
+.subject-application {
+    padding-top: 30px;
+}
+
+.recipient-name {
+}
+
+.leave-text {
+}
+
+.leave-reason {
+}
+
+.thank-you {
+}
+
+.signature {
+}
+
+.name-signature {
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+h1 {
+    text-align: center;
+}
+p {
+    margin-bottom: 20px;
+}
+.reason {
+    color: red;
+    font-weight: bold;
+}
